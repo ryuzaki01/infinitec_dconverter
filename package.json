@@ -14,6 +14,6 @@
   "author": "Supardi",
   "license": "MIT",
   "dependencies" : {
-    "cli" : "https://github.com/ryuzaki01/infinitec_cli_execute.git"
+    "cli" : "git+ssh://git@github.com:ryuzaki01/infinitec_cli_execute.git"
   }
 }
