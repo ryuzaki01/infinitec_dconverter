@@ -1,0 +1,19 @@
+﻿{
+  "name": "dconverter",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "dconverter asdasdas.doc cascsaa.pdf"
+  },
+  "repository" : "https://github.com/ryuzaki01/infinitec_dconverter.git",
+  "description": "Document Converter ",
+  "keywords": [
+    "doc",
+    "pdf"
+  ],
+  "author": "Supardi",
+  "license": "MIT",
+  "dependencies" : {
+    "cli" : "https://github.com/ryuzaki01/infinitec_cli_execute.git"
+  }
+}
