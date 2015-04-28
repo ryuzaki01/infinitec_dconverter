@@ -12,8 +12,5 @@
     "pdf"
   ],
   "author": "Supardi",
-  "license": "MIT",
-  "dependencies" : {
-    "cli" : "git+ssh://git@github.com:ryuzaki01/infinitec_cli_execute.git"
-  }
+  "license": "MIT"
 }
