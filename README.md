@@ -3,8 +3,10 @@ Dconverter 1.0
 Tools & library yang dibutuhkan :
 1. install java (https://java.com/en/download/)
 2. install libreoffice (https://www.libreoffice.org/)
-3. DocumentConverter Binary (DocumenConverter.jar + libs)
-4. dconverter module
+3. install microsoft office (2010 above)
+4. install ghostscript (http://www.ghostscript.com/)
+5. DocumentConverter Binary (DocumenConverter.jar + libs)
+6. dconverter module
 
 Konfigurasi :
 - Sesuaikan config di file node_modules/dconverter/index.js sesuai path instalasi
